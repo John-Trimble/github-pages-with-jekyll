@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
+title: Learning Pages and Jekyll
+author: John-Trimble
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm still not the best at github, and I really do need to get better...
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Phasellus faucibus scelerisque eleifend donec. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. 
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  john-trimble # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
