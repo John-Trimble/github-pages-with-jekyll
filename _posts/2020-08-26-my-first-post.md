@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: "2020-08-26"
+date: 2020-08-26
 ---
 ## New post that I am using to make sure this works!!
 
